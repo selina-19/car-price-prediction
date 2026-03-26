@@ -40,3 +40,7 @@ This project applies machine learning techniques to predict car prices. It explo
 - Hyperparameter optimisation  
 - Testing advanced models (e.g., Gradient Boosting)  
 - Deployment as a predictive application  
+
+## Related Project
+This project builds on exploratory analysis conducted in the Car Market Analysis project:
+https://github.com/selina-19/car-market-analysis
